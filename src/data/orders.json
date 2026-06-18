@@ -1,0 +1,24 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "itens": [
+      { "id": "1", "titulo": "Fone de Ouvido Bluetooth", "preco": 199.9, "quantidade": 1 }
+    ],
+    "total": 199.9,
+    "status": "confirmado",
+    "cartaoId": "1",
+    "createdAt": "2026-05-02T13:00:00.000Z"
+  },
+  {
+    "id": "2",
+    "userId": "1",
+    "itens": [
+      { "id": "3", "titulo": "Camiseta Básica Algodão", "preco": 49.9, "quantidade": 2 }
+    ],
+    "total": 99.8,
+    "status": "pendente",
+    "cartaoId": "1",
+    "createdAt": "2026-05-20T18:45:00.000Z"
+  }
+]

@@ -1,0 +1,11 @@
+[
+  {
+    "id": "1",
+    "userId": "1",
+    "numero": "4111111111111111",
+    "titular": "DEMO USUARIO",
+    "validade": "12/29",
+    "bandeira": "Visa",
+    "tipo": "credito"
+  }
+]
